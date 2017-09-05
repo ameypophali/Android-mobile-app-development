@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Math Puzzle Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_of_choices">Number of Choices</string>
+    <string name="number_of_choices_description">Select number of multiple choices</string>
+    <string name="Operators">Operators Available</string>
+    <string name="Operators_description">Operations to include in the quiz</string>
+    <string name="Guess_Answer">Answer correctly to disable alarm</string>
+    <string name="incorrect_answer">Incorrect Answer!</string>
+    <string name="default_operation_message">One operation must be selected. Setting Addition as the default region.</string>
+    <string name="restarting_quiz">Quiz will restart with your new settings</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="Text_Descriptor">Text for the current question</string>
+    <string name="default_operation">Addition</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_math_puzzle">MathPuzzle</string>
+    <string name="title_activity_map_scrolling">MapScrollingActivity</string>
+    <string name="large_text">
+    </string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Settings -->
+    <string name="pref_header_general">Number of Questions</string>
+
+    <string name="pref_title_add_friends_to_messages">Questions</string>
+    <string-array name="pref_example_list_titles">
+        <item>None</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
+
+  <!--  &lt;!&ndash; Example settings for Data & Sync &ndash;&gt;
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    &lt;!&ndash; Example settings for Notifications &ndash;&gt;
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>-->
+</resources>
