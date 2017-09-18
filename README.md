@@ -1,5 +1,5 @@
-# AndroidMobileApplication
-The repository contains the Android applications code that were made as a part of the course 'Mobile Application Development'. The apps are developed in Java using Android Studio.
+# Android Applications
+The repository contains the Android applications that were developed to increase proficiency in application development on a mobile platform. The apps are developed in Java using Android Studio. Android Studio uses Gradle as a Build System. A brief overview of the applications is provided here.
 
 About the Android Applications
 
